@@ -1,0 +1,15 @@
+**.iml
+**/target
+/chapter-cep-flume/target/
+/chapter-cep-flume/chapter-cep-flume.iws
+/chapter-cep-storm/.idea/
+/chapter-dist-computing/target/
+/chapters.ipr
+/chapters.iml
+/chapters.iws
+/chapter-cep/camel/target/
+/chapters.ids
+/chapter-persistence/expiry/expiry.iml
+/chapter-bigdata-spark/wordcount/ignite-spark.iml
+/chapter-bigdata-spark/wordcount/wordcount.ipr
+/chapter-bigdata-spark/wordcount/wordcount.iws
